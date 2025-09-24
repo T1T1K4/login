@@ -35,5 +35,5 @@ O objetivo é **demonstrar conceitos de orientação a objetos, validação de d
 
 
 # Participantes
-Carlos mMllo: 1988692
-George Lucas: 2012100
+- Carlos mMllo: 1988692
+- George Lucas: 2012100
